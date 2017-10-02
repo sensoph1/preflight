@@ -9,7 +9,7 @@ output =  preflight.check(filename).inspect
 
 if (output.length <3)
 
-	puts "no errors"
+	puts "no errors detected for X1A profile"
 else
 	puts output
 end
